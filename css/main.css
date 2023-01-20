@@ -1,5 +1,26 @@
 body {
-	background:gray;
-	font-family: arial;
+	margin: 0;
 
+}
+
+header {
+	background: late;
+	color: white;
+}
+
+header h1 {
+	margin: 0;
+}
+
+nav ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	list-sty-type:none;
+	padding: 5px 15px;
+	margin: 0;
+}
+
+nav ul li a{
+	color: white;
 }
