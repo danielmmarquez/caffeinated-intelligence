@@ -1,0 +1,62 @@
+
+.image{
+	background: url("logo.png") center;
+}
+
+.image2{
+	background: url("logo2.png") center;
+}
+.image3{
+	background: url("logo3.png") no-repeat;
+}
+
+.text{
+	background: black;
+	color: whitesmoke;
+	margin: 2% 20%;
+	border-radius: 10px;
+
+}
+
+.mission{
+	background:black;
+	color: whitesmoke;
+	margin: 2% 20%;
+	border-radius: 10px;
+}
+header {
+	margin: 0;
+	background: saddlebrown;
+	color: white;
+}
+.tabs{
+	background: black;
+	color: whitesmoke;
+	display: inline-block;
+	padding: 5px
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+}
+
+nav ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	list-sty-type:none;
+	padding: 5px, 5px;
+	margin: 33%, 33%, 33%;
+}
+
+nav ul li a{
+	color: white;
+}
+
+footer{
+	color:whitesmoke;
+	clear: both;
+}
