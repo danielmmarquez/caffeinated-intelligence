@@ -1,6 +1,6 @@
 
 .image{
-	background: url("logo.png") center;
+	background: url("logo.png");
 }
 
 .image2{
@@ -15,6 +15,7 @@
 	color: whitesmoke;
 	margin: 2% 20%;
 	border-radius: 10px;
+	opacity: 0.5;
 
 }
 
